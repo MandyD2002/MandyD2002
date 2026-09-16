@@ -45,4 +45,3 @@ Outside of tech, I enjoy playing Trading Card Games (TCG).
 ## 🖥️ Operating Systems
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-![Snake animation](https://github.com/MandyD2002/MandyD2002/blob/output/github-contribution-grid-snake.svg)
